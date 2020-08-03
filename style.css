@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui;
+  background:rgb(2, 0, 128);
+  color:red;
+  text-align: center;
+}
+p {
+  font-size:22px;
+}
+.turtles{
+  background-color:black;
+   
+
+}
+.NBA{
+  background-color: green;
+  
+}
+
+.games{
+  background-color:yellow;
+  text-color:black; 
+}
+.heading{
+  background-color:white;
+  font-size:10px; 
+}
